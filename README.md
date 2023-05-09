@@ -1,2 +1,8 @@
-# PERSONAL-BLOG
-Starting a personal blog can be a great way to express yourself, share your thoughts and experiences, and connect with like-minded individuals.
+# Cad_personal-blog
+
+### Task: To create a Personal-blog website 
+
+IDE: vs code <br>
+Technology used html,css and javascript
+
+<br>
