@@ -1,4 +1,4 @@
-# Cad_personal-blog
+# Personal-blog
 
 ### Task: To create a Personal-blog website 
 
